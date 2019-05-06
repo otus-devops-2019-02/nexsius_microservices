@@ -1,0 +1,7 @@
+REPOSITORY                TAG                 IMAGE ID            CREATED             SIZE
+nexsius/ubuntu-tmp-file   latest              0785004571c5        4 minutes ago       119MB
+ubuntu                    16.04               a3551444fc85        9 days ago          119MB
+hello-world               latest              fce289e99eb9        4 months ago        1.84kB
+
+
+Контейнер хранит также информацию о настройках, подключенных образах, портах и прочее
