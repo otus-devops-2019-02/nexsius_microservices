@@ -3,6 +3,11 @@
 # Nexsius_microservices
 Nexsius microservices repository
 
+# Monitoring-2 
+Репозиторий: https://hub.docker.com/u/nexsius
+- Развернуты мониторинг+алертинг+графана
+- настроены дашборды
+
 # Monitoring-1
 
 Репозиторий: https://hub.docker.com/u/nexsius
