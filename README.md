@@ -1,7 +1,12 @@
-[![Build Status](https://travis-ci.com/otus-devops-2019-02/nexsius_microservices.svg?branch=docker-3)](https://travis-ci.org/otus-devops-2019-02/nexsius_microservices)
+[![Build Status](https://travis-ci.com/otus-devops-2019-02/nexsius_microservices.svg?branch=docker-4)](https://travis-ci.org/otus-devops-2019-02/nexsius_microservices)
 
 # Nexsius_microservices
 Nexsius microservices repository
+
+# Docker-4
+Базовое имя проекта образуется по имени директории, в которой лежит docker-compose.yml. Изменить можно через переменные окружения:
+export COMPOSE_PROJECT_NAME=foo
+либо ключом -p ИМЯ_ПРОЕКТА
 
 # Docker-3
 
