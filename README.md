@@ -1,7 +1,12 @@
-[![Build Status](https://travis-ci.com/otus-devops-2019-02/nexsius_microservices.svg?branch=docker-4)](https://travis-ci.org/otus-devops-2019-02/nexsius_microservices)
+[![Build Status](https://travis-ci.com/otus-devops-2019-02/nexsius_microservices.svg?branch=monitoring-1)](https://travis-ci.org/otus-devops-2019-02/nexsius_microservices)
 
 # Nexsius_microservices
 Nexsius microservices repository
+
+# Monitoring-1
+
+Репозиторий: https://hub.docker.com/u/nexsius
+Развернут мониторинг и приложение на docker host
 
 # Docker-4
 Базовое имя проекта образуется по имени директории, в которой лежит docker-compose.yml. Изменить можно через переменные окружения:
