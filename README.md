@@ -1,7 +1,12 @@
-[![Build Status](https://travis-ci.com/otus-devops-2019-02/nexsius_microservices.svg?branch=monitoring-1)](https://travis-ci.org/otus-devops-2019-02/nexsius_microservices)
+[![Build Status](https://travis-ci.com/otus-devops-2019-02/nexsius_microservices.svg?branch=monitoring-2)](https://travis-ci.com/otus-devops-2019-02/nexsius_microservices)
 
 # Nexsius_microservices
 Nexsius microservices repository
+
+# Monitoring-2 
+Репозиторий: https://hub.docker.com/u/nexsius
+- Развернуты мониторинг+алертинг+графана
+- настроены дашборды
 
 # Monitoring-1
 
